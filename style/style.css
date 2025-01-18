@@ -328,7 +328,7 @@ main {
 }
 /* support */
 .support-section {
-  background-image: url("/assets/handshake.jpg");
+  background-image: url("../assets/handshake.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 300px;
